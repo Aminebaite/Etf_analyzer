@@ -24,4 +24,21 @@ Jupyter lab
 SQLachemy
 Voilà
 
+Deploy your web Application:
+
+Create a Web Application for an ETF Analyzer
+<img width="1440" alt="1" src="https://user-images.githubusercontent.com/96351609/154891928-156729da-73bc-4e8a-a080-d50412b8954b.png">
+Analyze a single asset in the FinTech ETF
+<img width="1440" alt="1bis" src="https://user-images.githubusercontent.com/96351609/154892324-d653078f-30f3-43dd-a85f-f818d55de2de.png">
+<img width="1440" alt="4" src="https://user-images.githubusercontent.com/96351609/154892333-5e867a7f-97c9-42c7-9e1e-f9eab2922a83.png">
+<img width="1437" alt="5" src="https://user-images.githubusercontent.com/96351609/154892345-878723db-9666-4222-8a96-b3c7048ffcd2.png">
+Optimize the SQL Queries<img width="1440" alt="7" src="https://user-images.githubusercontent.com/96351609/154892396-b8ff5732-189f-4f58-b50e-3733ee9ce635.png">
+Analyse the ETF Portfolio
+<img width="1436" alt="9" src="https://user-images.githubusercontent.com/96351609/154892428-2ad6e881-bdb4-44fc-b660-e8b257a3db4a.png">
+<img width="1440" alt="10" src="https://user-images.githubusercontent.com/96351609/154892436-8c1e36ee-96df-4641-8496-aff0a7ec640b.png">
+
+
+
+
+
 #Cotributor : Amine Baite Email: aminebaite@gmail.com
