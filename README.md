@@ -1,4 +1,4 @@
-
+##
 In recent years, finance has had an explosion in passive investing. Passive investing means that you invest in a basket of assets that’s called an exchange-traded fund (ETF). This way, you don’t spend time researching individual stocks or companies or take the risk of investing in a single stock. ETFs offer more diversification.
 
 In this project, we will ll build a financial database and web application by using SQL, Python, and the Voilà library to analyze the performance of a hypothetical fintech ETF.
@@ -9,7 +9,7 @@ The analysis of the ETF data that a SQL database stores.
 Professionally styled and formatted interactive visualizations.
 A screenshot or video of the web application that you created by deploying your Jupyter notebook via the Voilà library.
 
-Technologies :
+##Technologies :
 This project leverages Anaconda and Jupyterlab with Python 3.7:
 
 We need also to import the following libraries and dependencies :
@@ -24,7 +24,7 @@ Jupyter lab
 SQLachemy
 Voilà
 
-Deploy your web Application:
+##Deploy your web Application:
 
 Create a Web Application for an ETF Analyzer
 <img width="1440" alt="1" src="https://user-images.githubusercontent.com/96351609/154891928-156729da-73bc-4e8a-a080-d50412b8954b.png">
@@ -41,4 +41,4 @@ Analyse the ETF Portfolio
 
 
 
-#Cotributor : Amine Baite Email: aminebaite@gmail.com
+##Cotributor : Amine Baite Email: aminebaite@gmail.com
